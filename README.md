@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinicamad&label=Profile%20views&color=0e75b6&style=flat" alt="vinicamad" /> </p>
 
-- 🔭 I’m currently working on **LAMPIAO - Learning and Advanced Methods for Peptide Innovation and Optimization** 🌵
+- 🔭 I’m currently working on: **LAMPIAO - Learning and Advanced Methods for Peptide Innovation and Optimization** 🌵
 
-- 🌱 I’m currently learning **Machine Learning, Data Science. I also curious about Deep Learning**
+- 🌱 I’m currently learning: **Machine Learning, Data Science. I also curious about Deep Learning**
 
-- 📫 How to reach me **vinicius.amador@ufpe.br**
+- 📫 How to reach me: **vinicius.amador@ufpe.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
