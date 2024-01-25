@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinicamad&label=Profile%20views&color=0e75b6&style=flat" alt="vinicamad" /> </p>
 
-- 🔭 I’m currently working on **LAMPIAO**
+- 🔭 I’m currently working on **LAMPIAO - Learning and Advanced Methods for Peptide Innovation and Optimization** 🌵
 
 - 🌱 I’m currently learning **Machine Learning, Data Science. I also curious about Deep Learning**
 
