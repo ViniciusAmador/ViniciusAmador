@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vinícius Costa</h1>
+<h1 align="center">Hi 👋, I'm Vinícius Amador</h1>
 <h3 align="center">A passionate bioinformatician developer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
 
