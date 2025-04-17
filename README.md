@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinícius</h1>
-<h3 align="center">a Doctor and Engineer who’s passionate about tech, clean code, and building things that just work. I live in the Linux (Ubuntu) world, coding everything from Shell scripts to full-blown APIs with FastAPI and Django.</h3>
+<h3 align="center"> I'm am a Computational Biologist Doctor and BioTec Engineer who’s passionate about coding, and also building things that just work. I live in the Linux (Ubuntu) world even when it is a subsystem, coding everything from Shell scripts to automation full-blown APIs with FastAPI and Django. Also Biopython and Biojava full automation! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusamador&label=Profile%20views&color=0e75b6&style=flat" alt="viniciusamador" /> </p>
 
