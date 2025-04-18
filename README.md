@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viniciusamador" alt="viniciusamador" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Project With Agents and LLMs**
+- **Know thyself. Conhece-te a ti mesmo. 认识你自己。**
 
 - 🤝 I’m looking for help with **LLMs**
 
