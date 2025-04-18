@@ -7,8 +7,6 @@
 
 - **Know thyself. Conhece-te a ti mesmo. 认识你自己。**
 
-- 🤝 I’m looking for help with **LLMs**
-
 - 💬 Ask me about **Everything**
 
 <h3 align="left">Connect with me:</h3>
