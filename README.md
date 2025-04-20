@@ -20,7 +20,7 @@
 - 😱 Aficionado por literatura, especialmente terror.
 - 🎨 Hobbies em desenhar, pintar e tocar.
 
-  ---
+---
 
 <h3 align="left">🌐 Connect with me | Conecte-se comigo | 与我联系：</h3>
 <p align="left">
