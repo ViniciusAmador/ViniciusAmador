@@ -14,11 +14,12 @@
 
 ---
 
-- 🎸 Apaixonado por música, especialmente rock.
-- 🎨 Hobbies em desenhar, pintar e tocar.
-- 🧬 Curioso sobre os sistemas biológicos. A vida do teórico à prática.
 - 💬 Ask me about anything / Pergunte-me qualquer coisa / 随时问我问题！
-
+- 🧬 Curioso sobre os sistemas biológicos. O que é a vida? Do teórico à prática.
+- 🎸 Apaixonado por música, especialmente rock.
+- 😱 Aficionado por literatura, especialmente terror.
+- 🎨 Hobbies em desenhar, pintar e tocar.
+  
 ---
 
 <p align="center">
@@ -48,6 +49,9 @@
   </a>
   <a href="https://www.instagram.com/echo.on.omics/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://br.pinterest.com/echoonomics/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="Pinterest" height="30" width="40" />
   </a>
 </p>
 
