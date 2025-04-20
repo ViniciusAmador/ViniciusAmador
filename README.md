@@ -34,8 +34,8 @@
 <h3 align="center">💬 About Me | Sobre mim | 关于我</h3>
 
 - 🎸 Apaixonado por música, especialmente rock.
-- 🎨 Gosto de pintar e desenhar.
-- 🧬 Curioso sobre os sistemas da vida.
+- 🎨 Hobbies em desenhar, pintar e tocar.
+- 🧬 Curioso sobre os sistemas biológicos e a vida do teórico à prática.
 - 💬 Ask me about anything / Pergunte-me qualquer coisa / 随时问我问题！
 
 ---
