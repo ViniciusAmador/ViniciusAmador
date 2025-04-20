@@ -1,7 +1,5 @@
 <h1 align="center">Olá, me chamo | Hello, I am | 你好，我是 Vinícius Costa Amador</h1>
 
----
-
 <h3 align="center">💬 About Me | Sobre mim | 关于我</h3>
 
 ---
@@ -18,7 +16,7 @@
 
 - 🎸 Apaixonado por música, especialmente rock.
 - 🎨 Hobbies em desenhar, pintar e tocar.
-- 🧬 Curioso sobre os sistemas biológicos e a vida do teórico à prática.
+- 🧬 Curioso sobre os sistemas biológicos. A vida do teórico à prática.
 - 💬 Ask me about anything / Pergunte-me qualquer coisa / 随时问我问题！
 
 ---
