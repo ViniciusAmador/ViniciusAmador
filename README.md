@@ -1,4 +1,4 @@
-<h1 align="center">Olá | Hello | 你好，我是 Vinícius Costa Amador</h1>
+<h1 align="center">Olá, me chamo | Hello, I am | 你好，我是 Vinícius Costa Amador</h1>
 
 <h3 align="center">
 🇧🇷 Atuo com biologia estrutural e multiômica, lidando com dados multidimensionais para modelagem, simulação e predição. Tenho experiência em engenharia de proteínas, com foco na compreensão e modificação racional de estruturas. Vivo no mundo Linux (Ubuntu ❤️), mesmo quando é subsistema. Programo desde Shell scripts até APIs completas com Django e FastAPI, automatizando fluxos com Biopython e BioJava.
