@@ -19,7 +19,22 @@
 - 🎸 Apaixonado por música, especialmente rock.
 - 😱 Aficionado por literatura, especialmente terror.
 - 🎨 Hobbies em desenhar, pintar e tocar.
-  
+
+  ---
+
+<h3 align="left">🌐 Connect with me | Conecte-se comigo | 与我联系：</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/vinícius costa amador" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/echo.on.omics/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://br.pinterest.com/echoonomics/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="Pinterest" height="30" width="40" />
+  </a>
+</p>
+
 ---
 
 <p align="center">
@@ -38,21 +53,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusamador&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-<h3 align="left">🌐 Connect with me | Conecte-se comigo | 与我联系：</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/vinícius costa amador" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/echo.on.omics/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://br.pinterest.com/echoonomics/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="Pinterest" height="30" width="40" />
-  </a>
 </p>
 
 ---
