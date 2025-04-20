@@ -1,5 +1,11 @@
 <h1 align="center">Olá, me chamo | Hello, I am | 你好，我是 Vinícius Costa Amador</h1>
 
+---
+
+<h3 align="center">💬 About Me | Sobre mim | 关于我</h3>
+
+---
+
 <h3 align="center">
 🇧🇷 Atuo com biologia estrutural e multiômica, lidando com dados multidimensionais para modelagem, simulação e predição. Tenho experiência em engenharia de proteínas, com foco na compreensão e modificação racional de estruturas. Vivo no mundo Linux (Ubuntu ❤️), mesmo quando é subsistema. Programo desde Shell scripts até APIs completas com Django e FastAPI, automatizando fluxos com Biopython e BioJava.
 <br><br>
@@ -8,6 +14,12 @@
 🇨🇳 我从事结构生物学和多组学研究，处理多维数据以进行建模、模拟和预测。具备蛋白质工程经验，专注于结构的理解和理性改造。即使在子系统中，我也活跃于 Linux 世界（Ubuntu ❤️）。从 Shell 脚本到 Django 和 FastAPI 构建完整的 API，我能实现全流程自动化，擅长使用 Biopython 和 BioJava。
 </h3>
 
+---
+
+- 🎸 Apaixonado por música, especialmente rock.
+- 🎨 Hobbies em desenhar, pintar e tocar.
+- 🧬 Curioso sobre os sistemas biológicos e a vida do teórico à prática.
+- 💬 Ask me about anything / Pergunte-me qualquer coisa / 随时问我问题！
 
 ---
 
@@ -28,15 +40,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusamador&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-<h3 align="center">💬 About Me | Sobre mim | 关于我</h3>
-
-- 🎸 Apaixonado por música, especialmente rock.
-- 🎨 Hobbies em desenhar, pintar e tocar.
-- 🧬 Curioso sobre os sistemas biológicos e a vida do teórico à prática.
-- 💬 Ask me about anything / Pergunte-me qualquer coisa / 随时问我问题！
 
 ---
 
