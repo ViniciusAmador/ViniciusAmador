@@ -5,7 +5,7 @@
 ---
 
 <h3 align="center">
-🇧🇷 Atuo com biologia estrutural e multiômica, lidando com dados multidimensionais para modelagem, simulação e predição. Tenho experiência em engenharia de proteínas, com foco na compreensão e modificação racional de estruturas. Vivo no mundo Linux (Ubuntu ❤️), mesmo quando é subsistema. Shell scripts até APIs  com Django e FastAPI, automatizando fluxos com Biopython e BioJava.
+🇧🇷 Atuo com biologia estrutural e multiômica, lidando com dados multidimensionais para modelagem, simulação e predição. Tenho experiência em engenharia de proteínas, com foco na compreensão e modificação racional de estruturas. Vivo no mundo Linux (Ubuntu ❤️), mesmo quando é subsistema. Shell scripts até APIs com Django e FastAPI, automatizando fluxos com Biopython e BioJava.
 <br><br>
 🇺🇸 I work with structural and multi-omics biology, handling multidimensional data for modeling, simulation, and prediction. I have experience in protein engineering, focused on understanding and rationally modifying structures. I live in the Linux world (Ubuntu ❤️), even when it's a subsystem. Shell scripts to APIs using Django and FastAPI, automating pipelines with Biopython and BioJava.
 <br><br>
@@ -35,6 +35,9 @@
   </a>
   <a href="https://www.researchgate.net/profile/Vinicius-Amador?ev=hdr_xprf" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968978.png" alt="ResearchGate" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/viniciuscostaamador" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" height="30" width="40" />
   </a>
 </p>
 
