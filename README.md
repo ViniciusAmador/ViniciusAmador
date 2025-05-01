@@ -16,9 +16,7 @@
 
 - 💬 Ask me about anything / Pergunte-me qualquer coisa / 随时问我问题！
 - 🧬 Curioso sobre os sistemas biológicos. O que é a vida? Do teórico à prática.
-- 🎸 Apaixonado por música, especialmente rock.
-- 😱 Aficionado por literatura, especialmente terror.
-- 🎨 Hobbies em desenhar, pintar e tocar.
+- 🎸 🎨 Arte e Expressão
 
 ---
 
@@ -96,5 +94,8 @@
 </p>
 
 ---
-
+<h4 align="center">01010011 01101111 01101101 01101111 01110011 00100000 01110101 01101101</h4>
 <h4 align="center">🧠 “Know thyself. Conhece-te a ti mesmo. 认识你自己。”</h4>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ViniciusAmador&label=Profile%20views&color=0e75b6&style=flat" alt="ViniciusAmador" />
+</p>
