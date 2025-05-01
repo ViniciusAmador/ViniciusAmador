@@ -43,26 +43,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=viniciusamador&label=👀+Profile+views&color=blueviolet&style=flat-square" alt="viniciusamador" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=viniciusamador&theme=gruvbox&margin-w=15&no-frame=true" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viniciusamador&show_icons=true&theme=tokyonight" alt="viniciusamador stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusamador&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 <h3 align="left">💻 Linguagens & Frameworks | Languages & Frameworks | 编程语言与框架</h3>
 <p align="left">
   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer">
