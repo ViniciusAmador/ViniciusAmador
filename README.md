@@ -53,8 +53,6 @@
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
   </a>
 </p>
-
-<h3 align="left">📊 Data Science | Ciência de Dados | 数据科学</h3>
 <p align="left">
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
