@@ -5,11 +5,11 @@
 ---
 
 <h3 align="center">
-🇧🇷 Atuo com biologia estrutural e multiômica, lidando com dados multidimensionais para modelagem, simulação e predição. Tenho experiência em engenharia de proteínas, com foco na compreensão e modificação racional de estruturas. Vivo no mundo Linux (Ubuntu ❤️), mesmo quando é subsistema. Shell scripts até APIs com Django e FastAPI, automatizando fluxos com Biopython e BioJava.
+🇧🇷 Atuo com biologia estrutural e multiômica, lidando com dados multidimensionais para modelagem, simulação e predição. Tenho experiência em engenharia de proteínas, com foco na compreensão e modificação racional de estruturas. Vivo no mundo Linux (Ubuntu ❤️), mesmo quando é subsistema. 
 <br><br>
-🇺🇸 I work with structural and multi-omics biology, handling multidimensional data for modeling, simulation, and prediction. I have experience in protein engineering, focused on understanding and rationally modifying structures. I live in the Linux world (Ubuntu ❤️), even when it's a subsystem. Shell scripts to APIs using Django and FastAPI, automating pipelines with Biopython and BioJava.
+🇺🇸 I work with structural and multi-omics biology, handling multidimensional data for modeling, simulation, and prediction. I have experience in protein engineering, focused on understanding and rationally modifying structures. I live in the Linux world (Ubuntu ❤️), even when it's a subsystem. 
 <br><br>
-🇨🇳 我从事结构生物学和多组学研究，处理多维数据以进行建模、模拟和预测。具备蛋白质工程经验，专注于结构的理解和理性改造。即使在子系统中，我也活跃于 Linux 世界（Ubuntu ❤️）。从 Shell 脚本到 Django 和 FastAPI 构建完整的 API，我能实现全流程自动化，擅长使用 Biopython 和 BioJava。
+🇨🇳 我从事结构生物学和多组学研究，处理多维数据以进行建模、模拟和预测。具备蛋白质工程经验，专注于结构的理解和理性改造。即使在子系统中，我也活跃于 Linux 世界（Ubuntu ❤️）。
 </h3>
 
 ---
@@ -51,12 +51,6 @@
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  </a>
-  <a href="https://biopython.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluency/48/000000/dna-helix.png" alt="Biopython" width="40" height="40"/>
-  </a>
-  <a href="https://biojava.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/000000/dna-2.png" alt="BioJava" width="40" height="40"/>
   </a>
 </p>
 
