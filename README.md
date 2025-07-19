@@ -1,26 +1,21 @@
-<h1 align="center">Olá, me chamo | Hello, I am | 你好，我是 Vinícius Costa Amador</h1>
+<h1 align="center">Hello, I am Vinícius Costa Amador</h1>
 
-<h3 align="center">💬 About Me | Sobre mim | 关于我</h3>
+<h3 align="center">💬 About Me>
 
 ---
 
 <h3 align="center">
-🇧🇷 Atuo com biologia estrutural e multiômica, lidando com dados multidimensionais para modelagem, simulação e predição. Tenho experiência em engenharia de proteínas, com foco na compreensão e modificação racional de estruturas. Vivo no mundo Linux (Ubuntu ❤️), mesmo quando é subsistema. 
-<br><br>
-🇺🇸 I work with structural and multi-omics biology, handling multidimensional data for modeling, simulation, and prediction. I have experience in protein engineering, focused on understanding and rationally modifying structures. I live in the Linux world (Ubuntu ❤️), even when it's a subsystem. 
-<br><br>
-🇨🇳 我从事结构生物学和多组学研究，处理多维数据以进行建模、模拟和预测。具备蛋白质工程经验，专注于结构的理解和理性改造。即使在子系统中，我也活跃于 Linux 世界（Ubuntu ❤️）。
-</h3>
+🇺🇸 I work with structural and multi-omics biology, handling multidimensional data for modeling, simulation, and prediction. I have experience in protein engineering, focused on understanding and rationally modifying structures. Linux(Ubuntu ❤️)
 
 ---
 
-- 💬 Ask me about anything / Pergunte-me qualquer coisa / 随时问我问题！
+- 💬 Ask me about anything
 - 🧬 Curioso sobre os sistemas biológicos. O que é a vida? Do teórico à prática.
 - 🎸 🎨 Arte e Expressão
 
 ---
 
-<h3 align="left">🌐 Connect with me | Conecte-se comigo | 与我联系：</h3>
+<h3 align="left">🌐 Connect with me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/vinícius-costa-amador-684484241/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -41,7 +36,7 @@
 
 ---
 
-<h3 align="left">💻 Linguagens & Frameworks | Languages & Frameworks | 编程语言与框架</h3>
+<h3 align="left">💻 Languagens & Frameworks </h3>
 <p align="left">
   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="Scala" width="40" height="40"/>
@@ -65,7 +60,7 @@
   </a>
 </p>
 
-<h3 align="left">☁️ Nuvem & Backend | Cloud & Backend | 云与后端</h3>
+<h3 align="left">☁️ Cloud & Backend </h3>
 <p align="left">
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
@@ -75,7 +70,7 @@
   </a>
 </p>
 
-<h3 align="left">🛠️ Ferramentas | Tools | 工具</h3>
+<h3 align="left">🛠️ Tools </h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
