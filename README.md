@@ -20,12 +20,6 @@
   <a href="https://linkedin.com/in/vinícius-costa-amador-684484241/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/echo.on.omics/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://br.pinterest.com/echoonomics/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="Pinterest" height="30" width="40" />
-  </a>
   <a href="https://www.researchgate.net/profile/Vinicius-Amador?ev=hdr_xprf" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968978.png" alt="ResearchGate" height="30" width="40" />
   </a>
