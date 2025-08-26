@@ -5,13 +5,12 @@
 ---
 
 <h3 align="center">
-🇺🇸 I work with structural and multi-omics biology, handling multidimensional data for modeling, simulation, and prediction. I have experience in protein engineering, focused on understanding and rationally modifying structures. Linux(Ubuntu ❤️)
+Structural and multi-omics biology, handling multidimensional data for modeling, simulation, and prediction. 
+Protein engineering and rationally modifying structures. 
 
 ---
 
 - 💬 Ask me about anything
-- 🧬 Curioso sobre os sistemas biológicos. O que é a vida? Do teórico à prática.
-- 🎸 🎨 Arte e Expressão
 
 ---
 
