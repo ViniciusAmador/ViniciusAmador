@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="center"> Biologia estrutural e multi-ômica, lidando com dados multidimensionais para modelagem, simulação e predição. Engenharia de proteínas e modificação racional de estruturas.
+<h3 align="center"> Biologia estrutural! Dados multi-ômica multidimensionais para modelagem e predição. Engenharia e design de proteínas com modificação funcional racionalizada.
 
 ---
 
