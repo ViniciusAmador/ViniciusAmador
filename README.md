@@ -4,7 +4,7 @@
 
 <h3 align="left">
 
-Da ciência básica à aplicada com: Alta dimensionalidade em multi-ômica com análise preditiva e modelagem molecular. Engenharia e design racionalizado de proteínas, e peptídeos.
+Da ciência básica à aplicada com: Alta dimensionalidade em multi-ômica com análise preditiva, modelagem molecular, complexos e dinâmica de detalhamento coarse-grained e atomístico. Na inovação sou especialista rm engenharia e design racionalizado de proteínas, e peptídeos.
 
 Produzindo moléculas inspirado pela natureza
 ---
