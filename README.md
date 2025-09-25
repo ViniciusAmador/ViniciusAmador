@@ -4,9 +4,18 @@
 
 <h3 align="left">
 
-Da ciência básica à aplicada com: Alta dimensionalidade em multi-ômica com análise preditiva, modelagem molecular, complexos e dinâmica de detalhamento coarse-grained e atomístico. Na inovação sou especialista rm engenharia e design racionalizado de proteínas, e peptídeos.
+Da ciência básica à aplicada com: 
 
-Produzindo moléculas inspirado pela natureza
+- Dados: Estudos de integração de alta dimensionalidade biológica em nível multi-ômica
+- Análise preditiva e de modelagem molecular, com descrição do mecanismo de ação de complexos 
+- Dinâmica de detalhamento coarse-grained e atomístico. 
+
+Na inovação:
+- Sou especialista em engenharia reversa e design racionalizado de proteínas, e peptídeos.
+
+Gestão Ágil de projetos.
+
+**Produzindo moléculas inspirado pela natureza**
 ---
 
 <h3 align="left">🌐 Contato profissional</h3>
