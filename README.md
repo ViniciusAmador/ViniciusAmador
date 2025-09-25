@@ -2,7 +2,9 @@
 
 ---
 
-<h3 align="center"> Biologia estrutural! Da ciência básica à aplicada com: Alta dimensionalidade em multi-ômica com análise preditiva e modelagem molecular. Engenharia e design racionalizado de proteínas, e peptídeos.
+<h3 align="left">
+
+Da ciência básica à aplicada com: Alta dimensionalidade em multi-ômica com análise preditiva e modelagem molecular. Engenharia e design racionalizado de proteínas, e peptídeos.
 
 Produzindo moléculas inspirado pela natureza
 ---
