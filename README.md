@@ -11,9 +11,9 @@ Da ciência básica à aplicada com:
 - Dinâmica de detalhamento coarse-grained e atomístico. 
 
 Na inovação:
-- Sou especialista em engenharia reversa e design racionalizado de proteínas, e peptídeos.
+- Sou especialista em engenharia e design racionalizado de proteínas, e peptídeos.
 
-Gestão Ágil de projetos.
+Gestão de projetos em Biotecnologia.
 
 **Produzindo moléculas inspirado pela natureza**
 ---
