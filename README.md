@@ -15,7 +15,11 @@ Na inovação:
 
 Gestão de projetos em Biotecnologia.
 
+---
+<h3 align="center">
+  
 **Produzindo moléculas inspirado pela natureza**
+
 ---
 
 <h3 align="left">🌐 Contato profissional</h3>
