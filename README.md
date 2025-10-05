@@ -6,8 +6,8 @@
 
 Da ciência básica à aplicada com: 
 
-- Dados: Estudos de integração de alta dimensionalidade biológica em nível multi-ômica
-- Análise preditiva e de modelagem molecular, com descrição do mecanismo de ação de complexos 
+- Integração de alta dimensionalidade em dados de natureza multi-ômica
+- Anotação e análise preditiva e modelagem tridimensional de moleculas, com descrição do mecanismo de ação de complexos 
 - Dinâmica de detalhamento coarse-grained e atomístico. 
 
 Na inovação:
