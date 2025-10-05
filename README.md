@@ -13,10 +13,12 @@ Da ciência básica à aplicada com:
 Na inovação:
 - Sou especialista em engenharia e design racionalizado de proteínas, e peptídeos.
 
-Gestão de projetos em Biotecnologia.
+
 
 ---
 <h3 align="center">
+  
+Gestão de projetos em Biotecnologia e Bioinformática.
   
 **Produzindo moléculas inspirado pela natureza**
 
