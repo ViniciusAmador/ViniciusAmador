@@ -6,19 +6,20 @@
 
 Da ciência básica à aplicada com: 
 
-- Integração de alta dimensionalidade em dados de natureza multi-ômica
-- Anotação e análise preditiva e modelagem tridimensional de moleculas, com descrição do mecanismo de ação de complexos 
-- Dinâmica de detalhamento coarse-grained e atomístico. 
+- Análise integrada de dados multi-ômicos de alta dimensionalidade.
+- Anotação e análise preditiva de genomas, transcriptomas e proteomas.
+- Modelagem tridimensional de moleculas, com descrição do mecanismo de ação de complexos moleculares.
+- Dinâmica molecular de detalhamento coarse-grained e atomístico. 
 
 Na inovação:
-- Sou especialista em engenharia e design racionalizado de proteínas, e peptídeos.
+- Engenheiro e designer racionalizado de proteínas, e peptídeos.
 
+Gestão de projetos:
 
+- Biotecnologia e Bioinformática.
 
 ---
 <h3 align="center">
-  
-Gestão de projetos em Biotecnologia e Bioinformática.
   
 **Produzindo moléculas inspirado pela natureza**
 
