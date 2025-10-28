@@ -21,7 +21,7 @@ Gestão de projetos:
 ---
 <h3 align="center">
   
-**Produzindo moléculas inspirado pela natureza**
+**A inovação inspirada pela natureza**
 
 ---
 
