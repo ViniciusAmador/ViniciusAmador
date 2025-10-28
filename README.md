@@ -21,7 +21,7 @@ Gestão de projetos:
 ---
 <h3 align="center">
   
-**Aqui a inovação inspirada pela natureza**
+**Aqui a inovação inspirada pela própria vida**
 
 ---
 
