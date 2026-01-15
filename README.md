@@ -10,7 +10,7 @@ Da ciência básica até a aplicada, com:
 - Anotação e análise preditiva de genomas, transcriptomas e proteomas.
 - Modelagem tridimensional de moléculas, com descrição do mecanismo de ação.
 - Dinâmica molecular de detalhamento coarse-grained e/ou atomístico. 
-- Engenheiro e designe racionalizado de proteínas, e peptídeos.
+- Engenheiro de proteínas e designer (racionalizado) de peptídeos.
 
 Gestão de projetos:
 
