@@ -5,15 +5,6 @@
 <h3 align="left">
 
 Da ciência básica até a aplicada, com: 
-
-- Análise integrada de dados multi-ômicos multidimensionais.
-- Anotação e análise preditiva de genomas, transcriptomas e proteomas.
-- Modelagem tridimensional de moléculas, com descrição do mecanismo de ação.
-- Dinâmica molecular de detalhamento coarse-grained e/ou atomístico. 
-- Engenheiro de proteínas e designer (racionalizado) de peptídeos.
-
-Gestão de projetos:
-
 - Biotecnologia e Bioinformática.
 ---
 <h3 align="center">**Aqui a inovação é inspirada na própria vida**
